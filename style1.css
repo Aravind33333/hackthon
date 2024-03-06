@@ -1,0 +1,22 @@
+.row .col {
+    background-color: antiquewhite;
+
+}
+.row .col{
+    margin: 10px;
+}
+.logo2
+{
+    width:200px;
+    height:60px;
+}
+.mettupalayam.container{
+    width: 100%;
+    background-color: antiquewhite;
+    height: 710px;
+    position: relative;
+}
+.mettupalayam .li{
+    position: absolute;
+    left: 30%;
+}
